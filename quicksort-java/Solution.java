@@ -1,4 +1,4 @@
-// QUICKSORT - an implementation I've cobbled-together bassed on many online examples
+// QUICKSORT - an implementation I've cobbled-together based on many online examples
 // James T Snell, 2017
 // i@jts.me
 // jamessnell.com
